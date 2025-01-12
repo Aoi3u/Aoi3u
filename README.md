@@ -2,7 +2,7 @@
 - I'm a CS student.
 - I'm currently learning web development.
 
-## 🖥️ Web Develoment
+## 🖥️ Web Development
 For front-end development, I am studying **HTML**, **CSS** (including Bootstrap and TailwindCSS), and **JavaScript**. <br>
 For back-end development, I am focusing on **PHP** with **Laravel**. <br>
 I am also learning the basics of AWS for infrastructure. <br>
