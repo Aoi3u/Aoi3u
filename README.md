@@ -5,10 +5,9 @@
 ## 🖥️ Web Development
 For front-end development, I am studying **HTML**, **CSS** (including Bootstrap and TailwindCSS), and **JavaScript**. <br>
 For back-end development, I am focusing on **PHP** with **Laravel**. <br>
-I am also learning the basics of AWS for infrastructure. <br>
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,php,laravel,aws" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,php,laravel" />
 
 ## 💪 Activities
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Aoi3u&layout=compact)
