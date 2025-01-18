@@ -10,6 +10,7 @@ For back-end development, I am focusing on **PHP** with **Laravel**. <br>
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,php,laravel" />
 
 ## 💪 Activities
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Aoi3u&layout=compact)
 
 <!--
 **Aoi3u/Aoi3u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
