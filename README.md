@@ -3,8 +3,8 @@
 - I'm currently learning web development.
 
 ## 🖥️ Web Development
-For front-end development, I am studying **HTML**, **CSS** (including Bootstrap and TailwindCSS), and **JavaScript**. <br>
-For back-end development, I am focusing on **PHP** with **Laravel**. <br>
+For front-end development, I am studying **HTML**, **CSS** (including Bootstrap and TailwindCSS), and **JavaScript**.
+For back-end development, I am focusing on **PHP** with **Laravel**.
 
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,php,laravel" />
