@@ -2,9 +2,10 @@
 - I'm a CS student.
 
 ## 🖥️ Web Development
-- For front-end development, I am studying HTML, CSS and JavaScript. 
-- For back-end development, I am focusing on PHP with Laravel. 
-- Recently, I have been studying modern development as well.
+### Front-end
+HTML, CSS, JavaScript, TypeScript, React
+### Back-end
+PHP, Laravel, TypeScript, Hono
 
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,typescript,php,laravel,python" />
