@@ -8,7 +8,7 @@ HTML, CSS, JavaScript, TypeScript, React
 PHP, Laravel, TypeScript
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,typescript,php,laravel,python" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,typescript,react,php,laravel,python" />
 
 ## 💪 Activities
 <img alt="github stats" src="https://github-readme-stats-clone-flame.vercel.app/api/top-langs/?username=Aoi3u&layout=compact&exclude_repo=github-readme-stats" /> <img alt="Top Langs" src="https://github-readme-stats-clone-flame.vercel.app/api?username=Aoi3u&layout=compact" />
