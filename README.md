@@ -5,7 +5,7 @@
 ### Front-end
 HTML, CSS, JavaScript, TypeScript, React
 ### Back-end
-PHP, Laravel, TypeScript
+PHP, Laravel
 
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,typescript,react,php,laravel,python" />
