@@ -1,5 +1,5 @@
 ## Hi there 👋
-- I'm a CS student.
+I'm a CS student.
 
 ## 🖥️ Web Development
 I'm currently studying full-stack web development, 
