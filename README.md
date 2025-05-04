@@ -2,8 +2,7 @@
 I'm a CS student.
 
 ## 🖥️ Web Development
-I'm currently studying full-stack web development, 
-focusing on both front-end and back-end skills to build complete web applications.
+I'm currently studying full-stack web development to build complete web applications.
 
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,typescript,react,next,php,laravel,python" />
