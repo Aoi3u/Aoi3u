@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a CS student in Tokyo🗾
+I'm a CS student in Tokyo🗼
 
 ## 🖥️ Web Development
 I'm currently studying full-stack web development to build complete web applications.
