@@ -5,7 +5,7 @@ I'm a CS student in Tokyo🗼
 I'm currently studying full-stack web development to build complete web applications.
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,typescript,react,next,php,laravel,python" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,typescript,react,next,php,laravel,python,java" />
 
 ## 💪 Activities
 <img alt="github stats" src="https://github-readme-stats-clone-flame.vercel.app/api/top-langs/?username=Aoi3u&layout=compact&exclude_repo=github-readme-stats" /> <img alt="Top Langs" src="https://github-readme-stats-clone-flame.vercel.app/api?username=Aoi3u&layout=compact" />
