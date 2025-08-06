@@ -11,7 +11,7 @@ I'm passionate about full-stack web development and have experience building web
 
 ## 🛠️ Skills
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,typescript,react,next,php,laravel,python,java" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,typescript,react,next,php,laravel,python,java,aws" />
 
 ---
 
