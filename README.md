@@ -19,16 +19,17 @@ I'm passionate about full-stack web development and have experience building web
 
 - **[Portfolio Site](https://aoi3u.vercel.app/)**
   - A personal website to introduce myself, my skills, and my projects.
-  - `Next.js` `React` `TypeScript` `CSS Modules`
+  - `Next.js` `React` `TypeScript` `Vercel`
 
 - **[Tech Notes Blog](https://tech-notes-waseda.vercel.app/)**
   - A blog application with authentication where I can post articles in Markdown.
-  - `Next.js` `React` `TypeScript` `Supabase` `Prisma` `TailwindCSS`
+  - `Next.js` `React` `TypeScript` `Supabase` `Prisma` `Vercel`
 
-- **[Task Management App](https://laravel-to-do.vercel.app/tasks)**
-  - A simple task management application with CRUD operations.
+- **[Task Management App (Laravel)](https://laravel-to-do.vercel.app/tasks)**
   - `Laravel` `PHP` `MySQL` `Bootstrap`
 
+- **[Task Management App (Next.js)](https://main.dwd55mk6komcp.amplifyapp.com/)**  
+  - `Next.js` `React` `TypeScript` `SQLite` `Prisma` `AWS Amplify` `AWS App Runner`
 ---
 
 ## 🏢 Experience
