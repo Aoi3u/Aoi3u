@@ -7,13 +7,9 @@ I'm passionate about full-stack web development and have experience building web
 - 🏢 I'm currently working as a Web Engineer Intern at a tech startup in Tokyo.
 - 💻 Check out my projects on my [Portfolio Site](https://aoi3u.vercel.app/)!
 
----
-
 ## 🛠️ Skills
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,typescript,react,next,php,laravel,python,java,aws" />
-
----
 
 ## ✨ My Projects
 
@@ -30,14 +26,11 @@ I'm passionate about full-stack web development and have experience building web
 
 - **[Task Management App (Next.js)](https://main.dwd55mk6komcp.amplifyapp.com/)**  
   - `Next.js` `React` `TypeScript` `SQLite` `Prisma` `AWS Amplify` `AWS App Runner`
----
 
 ## 🏢 Experience
 
 **Web Engineer Intern | Tech Startup in Tokyo** (Feb 2025 - Present)
 - **Technologies:** `TypeScript`, `React`, `Hono`, etc.
-
----
 
 ## 💪 My Stats
 
