@@ -2,11 +2,6 @@
 
 I'm a Computer Science student at a university in Tokyo, Japan. 🗼
 
-I'm passionate about full-stack web development and have experience building web applications with TypeScript, React, Next.js, and Laravel. I'm also currently learning data analysis and machine learning.
-
-- 🏢 I'm currently working as a Web Engineer Intern at a tech startup in Tokyo.
-- 💻 Check out my projects on my [Portfolio Site](https://aoi3u.vercel.app/)!
-
 ## 🛠️ Skills
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,typescript,react,next,php,laravel,python,java,aws" />
