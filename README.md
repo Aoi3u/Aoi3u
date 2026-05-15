@@ -1,6 +1,6 @@
-# Hi there, I'm Aoi 👋
+# Hi there, I'm Aoi
 
-I'm a Computer Science student at a university in Tokyo, Japan. 🗼
+I'm a Computer Science student at a university in Tokyo, Japan. 
 
 ## 🛠️ Skills
 
