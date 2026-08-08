@@ -1,7 +1,3 @@
-# Hi there, I'm Aoi
-
-I'm a Computer Science student at a university in Tokyo, Japan. 
-
 ## 🛠️ Skills
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,typescript,react,next,php,laravel,python,java,aws" />
